@@ -1,0 +1,2 @@
+// Puedes agregar funcionalidad después
+console.log("Bitácora del Alma - Web activa");
